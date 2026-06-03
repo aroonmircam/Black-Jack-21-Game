@@ -1,4 +1,4 @@
-# ASCII Blackjack 21
+# Blackjack 21
 
 My Final Project for Stanford's **Code in Place 2026** course. This is a minimalist, terminal-based Blackjack game built in Python using Object-Oriented Programming (OOP).
 
